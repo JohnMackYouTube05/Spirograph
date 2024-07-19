@@ -1,6 +1,6 @@
 Spirograph draws animated Hypotrochoid and Epitrochoid curves.
-
-It was written during a long stint on jury service when I had a lot of time between sessions in court.
+Original program made by jugglingcats
+It was written during a long stint on their jury service when they had a lot of time between sessions in court.
 
 ![image](https://cloud.githubusercontent.com/assets/526349/12218912/1585f492-b726-11e5-8040-01394b356c98.png)
 
